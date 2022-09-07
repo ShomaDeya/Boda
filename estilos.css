@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    line-height: 1.15; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+  }
+
+body{    
+    text-align: center;    
+    background-image: url("img/fondo.jpg");    
+}
+
+#fondo{
+    width: auto;
+    height: auto;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+
+#video{
+    width: auto;
+    height: auto;
+    margin-top: 1rem;
+    margin-block-end: 2rem;
+    margin: none;
+}
+
+/* #frase{
+     margin-top: 1rem; 
+} */
+
+#autor{
+    text-align: end;
+}
+
+#ceremonia{
+    margin-top: 3rem;
+}
+
+#recepcion{
+    margin-top: 3rem;
+}
+
+#admision{
+    margin-top: 3rem;
+}
+
+#Maps{
+    font-size: small;
+    color: black;
+}
+
+#regalo{
+    margin-top: 3rem;
+    margin-block-end: 2rem;
+}
+
+#texto{
+    margin-top: 1rem;
+    font-family: cursive;
+}
