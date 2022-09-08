@@ -23,8 +23,8 @@ body{
 #video{
     width: auto;
     height: auto;
-    margin-top: 1rem;
-    margin-block-end: 2rem;
+    /* margin-top: 1rem;
+    margin-block-end: 2rem; */
     margin: none;
 }
 
