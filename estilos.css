@@ -21,7 +21,7 @@ body{
 }
 
 #video{
-    width: auto;
+    width: 75;
     height: auto;
     margin-top: 1rem;
     margin-block-end: 2rem;
